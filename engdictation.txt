@@ -1,0 +1,638 @@
+lesson 1
+
+Excause me?
+Yes?
+Is this your handbag?
+Pardon?
+Is this your handbag?
+Yes,it is.
+Thank you very much.
+
+Lesson 3
+
+My coat and my umbrella, please.
+Here is my ticket.
+Thank you sir.
+Number five.
+Here's your coat and your umbrella.
+This is not my umbrella.
+Sorry sir.
+Is this your umbrella?
+No, it isn't.
+Is this it?
+Yes, it is.
+Thank you very much.
+
+lesson 5
+
+Good morning.
+Good morning, Mr.Blake.
+This is Miss Sophie Dupont.
+Sophie is a new student.
+She is French.
+Sophie, this is Hans.
+He is German.
+Nice to meet you.
+And, this is Naoko.
+She is Japanese.
+Nice to meet you.
+And, this is chang-woo.
+He is korean.
+Nice to meet you.
+And, this is LuMing.
+He is Chinese.
+Nice to meet you.
+And, this is XiaoHui.
+She is chinese, too.
+Nice to meet you.
+
+lesson 7
+
+I'm a new student. My name is Robert.
+Nice to meet you. My name is Sophie. 
+Are you French?
+Yes,I am.
+Are you French, too.
+No, I'm not.
+What nationality are you?
+I'm Italian.
+Are you a teacher?
+No,I'm not.
+What's your job?
+I'm a --keybord-- operator.
+++ keyboard ++
+What's your job?
+I'm an engineer.
+
+lesson 9
+
+Hello, Helen.
+Hello, Steven.
+How are you today?
+I'm very well,thanks.And you?
+I'm fine.Thanks.
+How is Tony?
+He's fine.Thanks.
+How's Emma?
+She's very well, too. Helen.
+Goodbye Helen. Nice to see you.
+Nice to see you, too.
+Goodbye,Steven.
+
+
+lesson 11
+
+Whose shirt is that?
+Is this your shirt, Dave?
+No,sir, it's not my shirt.
+My shirt's blue.
+Is this shirt Tim's?
+Perhaps **it is**, sir. Tim's shirt's white.
+Tim!
+Yes, sir.
+Is this your shirt?
+Yes, it is.
+Here you are.
+++ Catch ++!
+Thanks, sir.
+
+lesson 12
+
+What colour's your new dress?
+It's green.
+Come upstairs and see it.
+Thanks.
+Look, here it is.
+That's a nice dress.
+It's very smart.
+My hat's new, too.
+-- What colour's is it? --
+++ What colour is it? ++
+It's the same colour.
+It's green, too.
+That's a lovely hat.
+
+lesson 14
+
+Are you Swedish?
+No, we are not Swedish. We are Danish.
+Are your friends Danish, too?
+No, They are not. They are Norwegian.
+Your passports, please.
+-- Here you are.--
+++ Here they are. ++
+Are these your cases?
+No, they are not.
+Our cases are brown.
+Here they are.
+Are you tourists?
+Yes, we are.
+Are your friends toursits, too?
+Yes they are.
+That's fine.
+Thank you very much.
+
+lesson 15
+
+Come and meet our -employes--,Mr.Richards.
+++ employees ++ employees loyloyloyloyloyloyloy eeseeseesloyloyloyloyloyloy eeeeeee
+Thanks, Mr.Jackson.
+This is Nicola Grey, and this is Claire Taylor.
+How do you do?
+Those women are very hard-working.
+What are their jobs?
+They are keyboard operators.
+This is Mi*** Baker, and this is Jeremy Short.
+Hoe do you do?
+They are not very busy.
+What are their jobs?
+They are sales reps.
+They are very lazy.
+Who is this young man?
+He's Jim.
+He's our office assistant. 
+
+lesson 16
+
+What's the matter, children?
+We are tired and thirsty. Mom.
+Sit down here.
+Are you all right now?
+No, we aren't.
+Look, There is an ice cream man.
+Two ice creams, please.
+Here you are, children.
+Thanks. Mom.
+These ice creams are very nice.
+Are you all right now?
+Yes, we are. Thanks mom.
+
+lesson 18
+
+Give me a book please, Jane.
+Which book?
+This one?
+No, not that one. The red one.
+This one?
+Yes, please.
+Here you are.
+Thanks.
+
+lesson 20
+
+Give me some glasses please, Jane.
+Which glasses?
+These glasses?
+No, not those. The ones on the shelf.
+These?
+Yes, please.
+Here you are.
+Thanks.
+
+lesson 22
+
+Mrs.Smith's kitchen is small.
+There is a refrigerator in the kitchen.
+The refrigerator is white.
+It's on the right.
+There is an electric cooker in the kitchen.
+The cooker is blue.
+It's on the left.
+There is a table in the middle of the room.
+There is a bottle on the table.
+The bottle is empty.
+There is a cup on the table, too.
+The cup is clean.
+
+lesson 24
+
+Mrs.Smith's living room is large.
+There is a television in the room.
+The television near the window.
+There're some magazines on the television.
+There is a table in the room.
+There're some newspapers on the table.
+There're some armchairs in the room.
+The armchairs **are** near the table.
+There is a stereo in the room.
+The stereo **is** near the door.
+There're some books on the stereo.
+There're some pictures in the room.
+The pictures **are** on the wall.
+
+
+Are there any books on the dressing table?
+No, there are not any books on the dressing table.
+There are some cigarettes.
+Where are they?
+They are near that bbox.
+
+Come in Amy.
+Shut the door, please.
+This bedroom's very untidy.
+What must I do, Mrs.Jones.
+Open the window and air the room.
+
+Come in, Amy.
+Shut the door, please.
+This bedroom's very untidy.
+What must I do? Mrs.Jones.
+Open the window and air the room.
+Then put these clothes in the wardrobe.
+Then make the bed.
+Dust the dressing table.
+Then sweep the floor.
+
+Come in Amy.
+Shut the door, please.
+This bedroom's very untidy.
+What must I do? Mrs.Jones.
+Open the window and air the room.
+Then put **these** clothes in the wardrobe.
+The make the bed.
+Dust the dressing table.
+Then sweep the floor.
+
+Are there any books on the dressing table?
+No, there are not any books on the dressing table.
+There are some cigarettes.
+Where are they?
+They are near that box.
+
+
+
+Come in, Amy.
+Shut the door, please.
+This bedroom's very untidy.
+What must I do? Mrs.Jones.
+Open the window and air the room.
+Then make the bed.
+Then put these clothes in the wardrobe.
+Dust the dressing table.
+Then sweep the floor.
+
+
+
+Come in, Amy.
+Shut the door, please.
+This bedroom's very untidy.
+What must I do? Mrs.Jones.
+Open the window and air the room.
+Then put these clothes in the wardrobe.
+Then make the bed.
+Dust the dressing table.
+The sweep the floor.
+
+The window isn't open.
+Open it.
+The door isn't shut.
+Shut it.
+
+Where's Sally? Jack.
+She's in the garden, Jean.
+What's she doing?
+She's siting the under tree.
+Is Tim in the garden, too?
+Yes, he is.
+
+
+
+
+
+Where's Sally, Jack?
+She's in the garden,Jean.
+What's she doing?
+She is sitting under the tree.
+Is Tim in the garden, too?
+Yes,he is.
+He is climbing the tree.
+I beg your pardon?
+Who's climbing the tree?
+Is Tim.
+What about the dog?
+The dog in the garden, too.
+It's running across the grass.
+It's running after a cat.
+
+
+It is a fine day today.
+There are some clouds in the sky.
+But the sun is shining.
+Mr.Jones is with his family.
+They are walking over the bridge.
+
+
+
+
+It's a fine day today.
+There are some clouds in the sky,
+but the sun is shining.
+Mr.Jones with his family.
+They are walking over the bridge.
+
+
+
+It is a fine day today.
+There are some clouds in the sky,
+but the sun is shining.
+Mr.Jones is with his family.
+They are walking over the bridge.
+There are some boats on the river.
+Mr.Jones and his wife are Looking at them.
+Sally is Looking at a big ship.
+The ship is going under the bridge.
+Tim is Looking at an aeroplane.
+The aeroplane is flying over the river.
+
+
+
+
+It is a fine day today.
+There are some clouds in the sky,
+but the sun is shining.
+Mr.Jones is with his family.
+They are walking over the bridge.
+There are some boats on the river.
+Mr.Jones and his wife are looking at them.
+Sally is looking at a big ship.
+The ship is going under the bridge.
+Tim is looking at an aeroplane.
+The aeroplane is flying over the river.
+
+What are the children doing?
+They are looking at the boats on the river
+
+It is a fine day today.
+There are some clouds in the sky,
+but the sun is shining.
+Mr.Jones is with his family.
+They are walking over the bridge.
+There are some boats on the river.
+Mr.Jones and his wife looking at them.
+Sally is looking at a big ship.
+The ship is going under the bridge.
+Tim is looking at an aeroplane.
+The aeroplane is flying over the bridge.
+
+Where is Sally? Jack.
+She's in the garden, Jean.
+What's she doing?
+She's sitting under the tree.
+Is Tim in the garden? too.
+Yes, he is.
+He is climbing the tree.
+I beg your parden?
+Who is climbing the tree?
+Tim is.
+What about the dog?
+The dog **is** in the garden, too.
+It's running across the grass.
+It's running after a cat.
+
+lesson 1
+
+Excause me?
+Yes?
+Is this your handbag?
+Pardon?
+Is this your handbag?
+Yes,it is.
+Thank you very much.
+
+lesson 3
+
+My coat and my umbrella, please.
+Here is my ticket.
+Thank you, sir.
+Number five.
+Here's your coat and your umbrella.
+--It's-- not my umbrella. //This is 
+Sorry, sir.
+Is this your umbrella?
+No, it isn't.
+Is this it?
+Yes, it is.
+Thank you very much. 
+
+lesson 5
+
+Good moring.
+Good morning, Mr.Blake.
+This is Miss Sophie Dupont.
+Sophie is a new student.
+She is French.
+Sophie, this is Hans.
+He is German.
+Nice to meet you.
+This is Naoko, she is Japanese.
+Nice to meet you.
+And this is Chang-woo.
+He is Korean.
+Nice to meet you.
+And this is Luming.
+He is Chinese.
+And this is XiaoHui.
+She is Chinese, too.
+Nice to meet you.
+
+lesson 7
+
+I am a new student, my name is --Rebert--. //Robert
+Nice to meet you. My name is Sophie.
+Are you French?
+Yes, i am.
+Are you French? too.
+No, i am not.
+What nationality are you?
+I am Italian.
+Are you a teacher?
+No, i am not.
+What's your job?
+I am a keyboard operator.
+What's your job?
+I am an engineer.
+
+lesson 9
+
+Hello, Helen.
+Hi, Steven.
+How are you today?
+I'm fine, thanks.
+And you?
+I'm very well, thanks.
+How is Tony?
+He's fine, thanks.
+How's Emma?
+She is very well, too.
+Goodbye Helen. Nice to see you.
+Nice to see you, too.
+Goodbye Steven.
+
+lesson 11
+
+Whose shirt is that?
+Is this is your shirt? Dave.
+No, sir. It's not my shirt.
+++ This is my shirt ++
+My shirt's blue.
+Is this shirt Tim's?
+Perhaps ++ it is ++, sir.
+Tim's shirt's white.
+Tim!
+Yes, sir.
+Is this your shirt?
+Yes sir.
+Here you are.
+Catch!
+Thank you sir.
+
+lesson 13
+
+What color's your new dress?
+It's green.
+Come upstairs and see it.
+Thanks.
+Look, here it is.
+That's a nice dress. It's very smart.
+My hat's new, too.
+What color is it?
+It's ++ the ++ same color.
+It's green, too.
+That's a lovely hat.
+
+lesson 15
+
+Are you Swedish?
+No, we are Danish.
+Are your friends Danish, too?
+No, They are Norwegian.
+Your passports, please.
+Here **you** ++ they ++ are.
+Are these your cases?
+No, They are not.
+Our cases are brown.
+Here they are.
+Are you tourists?
+Yes, we are.
+Are your friends tourists? ++ too ++.
+Yes, they are.
+That's fine.
+Thank you very much.
+
+lesson 17
+
+Come and meet our employees, Mr.**Rachaird**. ++ Richards ++
+Thanks, Mr.Jackson.
+This is Nicola Grey and this is ** Clair ** Taylor. ++ Claire ++
+How do you do?
+Those women are very hard-working, what are they jobs? //their
+They are keyboard operator.
+This is **Michal** Baker and this is Jeremy Short. // Michael
+How do you do?
+They're not very busy.
+What are **they** jobs? //their
+They're sales reps.
+They're very lazy.
+Who is this young man?
+He's Jim.
+He's our office assistant.
+
+lesson 19
+
+What's the matter? children.
+We are tired and thirsty. Mom.
+Sit down here.
+Are you all right, now.
+No, we are not.
+Look. There's an ice cream man.
+Two ice creams, please.
+Here you are. ++ Children ++
+Thanks, mom.
+These ice creams are very nice.
+Are you all right, now.
+Yes, we are.
+Thanks, mom.
+
+lesson 21
+
+Give me a book, please, Jane.
+Which book?
+This one?
+No, not that one.
+The red on.
+This one?
+Yes, please.
+Here you are.
+Thank you.
+
+lesson 23
+
+Give me some glasses please, Jane.
+Which glasses?
+These ones?
+No, not those. 
+The ones on the shelf.
+These?
+Yes, please.
+Here you are.
+Thanks.
+
+lesson 25
+
+Mrs.Smith's kitchen is small.
+There is a refrigerator in the kitchen.
+The refrigerator is white.
+It's on the right.
+There is **a** electric cooker in the kitchen.//an
+The cooker is blue.
+It's on the left.
+There is a table in the middle of the room.
+There is a bottle on the table.
+The bottle is empty.
+There is a cup on the table, too.
+The cup is clean.
+
+lesson 27
+
+Mrs.Smith's living room is large.
+There is a television in the room.
+The television is near the window.
+There're some magazines on the television.
+There's a table in the room.
+There're some newspapers on the table.
+There're some armchairs in the room.
+The armchairs are near the table.
+There's a stereo in the room.
+The stereo is near the door.
+There're some books on the stereo.
+There're some pictures in the room.
+The pictures are on the wall.
+
+lesson 28
+
+Are there any books on the dressing table?
+No, there aren't any books on the dressing table.
+There are some cigarettes.
+Where are they?
+They are near that box.
+
+lesson 29
+
+Come in, Amy.
+Shut the door, please.
+This bedroom is very untidy.
+What must I do? Mrs.Jones.
+Open the window and air the room.
+Then put these clothes in the ++ wartrobe ++.
+Then make the bed.
+Dust the dressing table.
+Then sweep the floor.
+
+
+
+
+
+
+
+
+
