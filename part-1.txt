@@ -93,7 +93,7 @@ Yes, sir.
 Is this your shirt?
 Yes, it is.
 Here you are.
-++ Catch ++!
+++Catch!++
 Thanks, sir.
 
 lesson 12
@@ -388,7 +388,7 @@ Here is my ticket.
 Thank you, sir.
 Number five.
 Here's your coat and your umbrella.
---It's-- not my umbrella. //This is 
+--It's-- not my umbrella. // ++This is++ 
 Sorry, sir.
 Is this your umbrella?
 No, it isn't.
@@ -419,7 +419,7 @@ Nice to meet you.
 
 lesson 7
 
-I am a new student, my name is --Rebert--. //Robert
+I am a new student, my name is --Rebert--. // ++Robert++
 Nice to meet you. My name is Sophie.
 Are you French?
 Yes, i am.
@@ -455,7 +455,7 @@ lesson 11
 Whose shirt is that?
 Is this is your shirt? Dave.
 No, sir. It's not my shirt.
-++ This is my shirt ++
+++This is my shirt++
 My shirt's blue.
 Is this shirt Tim's?
 Perhaps ++ it is ++, sir.
@@ -478,7 +478,7 @@ Look, here it is.
 That's a nice dress. It's very smart.
 My hat's new, too.
 What color is it?
-It's ++ the ++ same color.
+It's ++the++ same color.
 It's green, too.
 That's a lovely hat.
 
@@ -489,30 +489,31 @@ No, we are Danish.
 Are your friends Danish, too?
 No, They are Norwegian.
 Your passports, please.
-Here **you** ++ they ++ are.
+Here --you-- are. //++they++
 Are these your cases?
 No, They are not.
 Our cases are brown.
 Here they are.
 Are you tourists?
 Yes, we are.
-Are your friends tourists? ++ too ++.
+Are your friends tourists? ++too++.
 Yes, they are.
 That's fine.
 Thank you very much.
 
 lesson 17
 
-Come and meet our employees, Mr.**Rachaird**. ++ Richards ++
+Come and meet our employees, Mr.--Rachaird--. ++ Richards ++
 Thanks, Mr.Jackson.
-This is Nicola Grey and this is ** Clair ** Taylor. ++ Claire ++
+This is Nicola Grey and this is --Clair-- Taylor. ++ Claire ++
 How do you do?
-Those women are very hard-working, what are they jobs? //their
+Those women are very hard-working, 
+what are --they-- jobs? //their
 They are keyboard operator.
-This is **Michal** Baker and this is Jeremy Short. // Michael
+This is --Michal-- Baker and this is Jeremy Short. // Michael
 How do you do?
 They're not very busy.
-What are **they** jobs? //their
+What are --they-- jobs? //their
 They're sales reps.
 They're very lazy.
 Who is this young man?
@@ -565,7 +566,7 @@ Mrs.Smith's kitchen is small.
 There is a refrigerator in the kitchen.
 The refrigerator is white.
 It's on the right.
-There is **a** electric cooker in the kitchen.//an
+There is --a-- electric cooker in the kitchen.//an
 The cooker is blue.
 It's on the left.
 There is a table in the middle of the room.
@@ -605,7 +606,7 @@ Shut the door, please.
 This bedroom is very untidy.
 What must I do? Mrs.Jones.
 Open the window and air the room.
-Then put these clothes in the ++ wardrobe ++.
+Then put these clothes in the ++wardrobe++.
 Then make the bed.
 Dust the dressing table.
 Then sweep the floor.
@@ -618,9 +619,9 @@ but the sun is shining.
 Mr.Jones is with his family.
 They are walking over the bridge.
 There're some boats on the river.
-Mr.Jones and his wife ++ are ++ looking at them.
+Mr.Jones and his wife ++are++ looking at them.
 Sally is looking at a big ship.
-The ship is going ++ under ++ the bridge.
+The ship is going ++under++ the bridge.
 Tim is looking at an aeroplane.
 The aeroplane is flying over the bridge.
 
@@ -640,18 +641,18 @@ The village is on a river.
 Here is --a-- another photograph of the village.
 
 This is a photograph of our village.
-Our village is in a **velley**. ++valley++
+Our village is in a --velley--. ++valley++
 It is between two hills.
 The village is on a river.
-Here is ++another++ photograph of the village.
-My wife and I are walking ++along++ the banks of the river.
+Here is **another** photograph of the village.
+My wife and I are walking **along** the banks of the river.
 We are on the left.
 There is a boy in the water.
 He is swimming across the river.
 This is a photograph of our village.
 Our village is in a valley.
 It's between two hills.
-The village is on **the** ++a++ river. 
+The village is on --the-- ++a++ river. 
 Here is another photograph of the village.
 My wife and I are walking along the banks of the river.
 We are on the left.
@@ -662,7 +663,7 @@ lesson 33
 
 It's a fine day today.
 There are some clouds in the sky,
-but, the sun is **shinning**. ++shining++
+but, the sun is --shinning--. ++shining++
 Mr.Jones is with his family.
 They are walking over the bridge.
 There're some boats on the river.
@@ -709,6 +710,6 @@ He is swimming across the river.
 Here is another photograph.
 This is the school building.
 It's beside a park.
-The park ++is++ on the right.
+The park **is** on the right.
 Some children are comming out of the building.
 Some of them are going into the park.
