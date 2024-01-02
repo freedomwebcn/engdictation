@@ -652,7 +652,7 @@ He is swimming across the river.
 This is a photograph of our village.
 Our village is in a valley.
 It's between two hills.
-The village is on --the-- ++a++ river. 
+The village is on --the-- river. // ++a++ 
 Here is another photograph of the village.
 My wife and I are walking along the banks of the river.
 We are on the left.
@@ -713,3 +713,96 @@ It's beside a park.
 The park **is** on the right.
 Some children are comming out of the building.
 Some of them are going into the park.
+
+test4
+
+This is a photograph of our village.
+Our village is in a valley.
+It's between two hills.
+The village is on a river.
+Here is another photo of the village.
+My wife and I are walking along the banks of the river.
+We are on the left.
+There is a boy in the water.
+He is swimming across the river.
+Here is another photo.
+This is the school building.
+It's beside --of a-- park. // ++a++
+The park **is** on the right.
+Some children are comming out of the buolding.
+Some of them are going into the park.
+
+test5
+
+This is a photo of our village.
+Our village is in a valley.
+It's between two hills.
+The village is on a river.
+Here is another photo of the village.
+My wife and I are walking along the banks of the river.
+We are on the left.
+There is a boy.++in the water++
+He is swimming across the river.
+Here is another photo.
+This is the school building.
+It's beside a park.
+The park is on the right.
+Some children are comming out of the building.
+Some of them are going into the park.
+
+lesson 37 
+
+test1
+
+You're working hard, George.
+What are you doing?
+I'm making a bookcase.
+Give me that hammer please, Dan.
+Which hammer?
+This one?
+No, not that one.
+The big one.
+Here you are.
+Thanks, Dan.
+
+test2
+
+You're working hard, George.
+What are you doing?
+I'm making a bookcase.
+Give me that hammer please, Dan.
+Which hammer?
+This one?
+No, not that one.
+The big one.
+Here you are.
+Thanks, Dan.
+What are you going to do now? George.
+I'm going to paint it.
+What color are you going to paint it?
+I'm going to paint it pink.
+Pink!
+This bookcase isn't for me.
+It's for my daughter, Susan.
+Pink's her favourite color.
+
+test3
+
+You're working hard, George.
+What are you doing?
+I'm making ++a++ bookcase.
+Give me that hammer please, Dan.
+Which hammer?
+This one?
+No, not that one.
+The big one.
+Here you are.
+Thanks, Dan.
+What are you going to do now? George.
+I'm going to paint it.
+What color are you going to paint it?
+I'm ++going to++ paint it pink.
+Pink!
+This bookcase isn't for me.
+It's for my daughter.++Susan++
+Pink's her favourite color.
