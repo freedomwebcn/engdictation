@@ -59,8 +59,7 @@ I'm Italian.
 Are you a teacher?
 No,I'm not.
 What's your job?
-I'm a --keybord-- operator.
-++ keyboard ++
+I'm a --keybord-- operator. // ++keyboard++
 What's your job?
 I'm an engineer.
 
@@ -93,7 +92,7 @@ Yes, sir.
 Is this your shirt?
 Yes, it is.
 Here you are.
-++Catch!++
+**Catch!**
 Thanks, sir.
 
 lesson 12
@@ -134,8 +133,7 @@ Thank you very much.
 
 lesson 15
 
-Come and meet our -employes--,Mr.Richards.
-++ employees ++ employees loyloyloyloyloyloyloy eeseeseesloyloyloyloyloyloy eeeeeee
+Come and meet our -employes--,Mr.Richards. // ++employees++
 Thanks, Mr.Jackson.
 This is Nicola Grey, and this is Claire Taylor.
 How do you do?
@@ -458,7 +456,7 @@ No, sir. It's not my shirt.
 ++This is my shirt++
 My shirt's blue.
 Is this shirt Tim's?
-Perhaps ++ it is ++, sir.
+Perhaps **it is**, sir.
 Tim's shirt's white.
 Tim!
 Yes, sir.
@@ -503,17 +501,17 @@ Thank you very much.
 
 lesson 17
 
-Come and meet our employees, Mr.--Rachaird--. ++ Richards ++
+Come and meet our employees, Mr.--Rachaird--. ++Richards++
 Thanks, Mr.Jackson.
-This is Nicola Grey and this is --Clair-- Taylor. ++ Claire ++
+This is Nicola Grey and this is --Clair-- Taylor. ++Claire++
 How do you do?
 Those women are very hard-working, 
-what are --they-- jobs? //their
+what are --they-- jobs? // ++their++
 They are keyboard operator.
-This is --Michal-- Baker and this is Jeremy Short. // Michael
+This is --Michal-- Baker and this is Jeremy Short. // ++Michael++
 How do you do?
 They're not very busy.
-What are --they-- jobs? //their
+What are --they-- jobs? // ++their++
 They're sales reps.
 They're very lazy.
 Who is this young man?
@@ -529,7 +527,7 @@ Are you all right, now.
 No, we are not.
 Look. There's an ice cream man.
 Two ice creams, please.
-Here you are. ++ Children ++
+Here you are. **Children**
 Thanks, mom.
 These ice creams are very nice.
 Are you all right, now.
@@ -566,7 +564,7 @@ Mrs.Smith's kitchen is small.
 There is a refrigerator in the kitchen.
 The refrigerator is white.
 It's on the right.
-There is --a-- electric cooker in the kitchen.//an
+There is --a-- electric cooker in the kitchen.// ++an++
 The cooker is blue.
 It's on the left.
 There is a table in the middle of the room.
@@ -606,7 +604,7 @@ Shut the door, please.
 This bedroom is very untidy.
 What must I do? Mrs.Jones.
 Open the window and air the room.
-Then put these clothes in the ++wardrobe++.
+Then put these clothes in the **wardrobe**.
 Then make the bed.
 Dust the dressing table.
 Then sweep the floor.
@@ -619,9 +617,9 @@ but the sun is shining.
 Mr.Jones is with his family.
 They are walking over the bridge.
 There're some boats on the river.
-Mr.Jones and his wife ++are++ looking at them.
+Mr.Jones and his wife **are** looking at them.
 Sally is looking at a big ship.
-The ship is going ++under++ the bridge.
+The ship is going **under** the bridge.
 Tim is looking at an aeroplane.
 The aeroplane is flying over the bridge.
 
@@ -631,7 +629,7 @@ This is a photograph of our village.
 Our village is in a valley.
 It is between two hills.
 The village ++is++ on a river.
-**This is aonther photograph of the village.**
+--This is aonther photograph of the village.--
 ++Here is another photograph of the village.++
 
 This is a photograph of our village.
@@ -741,7 +739,7 @@ The village is on a river.
 Here is another photo of the village.
 My wife and I are walking along the banks of the river.
 We are on the left.
-There is a boy.++in the water++
+There is a boy in the water.
 He is swimming across the river.
 Here is another photo.
 This is the school building.
@@ -790,7 +788,7 @@ test3
 
 You're working hard, George.
 What are you doing?
-I'm making ++a++ bookcase.
+I'm making **a** bookcase.
 Give me that hammer please, Dan.
 Which hammer?
 This one?
@@ -801,8 +799,8 @@ Thanks, Dan.
 What are you going to do now? George.
 I'm going to paint it.
 What color are you going to paint it?
-I'm ++going to++ paint it pink.
+I'm **going to** paint it pink.
 Pink!
 This bookcase isn't for me.
-It's for my daughter.++Susan++
+It's for my daughter.**Susan**
 Pink's her favourite color.
