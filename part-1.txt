@@ -639,7 +639,7 @@ The village is on a river.
 Here is --a-- another photograph of the village.
 
 This is a photograph of our village.
-Our village is in a --velley--. ++valley++
+Our village is in a --velley--. // ++valley++
 It is between two hills.
 The village is on a river.
 Here is **another** photograph of the village.
@@ -661,7 +661,7 @@ lesson 33
 
 It's a fine day today.
 There are some clouds in the sky,
-but, the sun is --shinning--. ++shining++
+but, the sun is --shinning--. // ++shining++
 Mr.Jones is with his family.
 They are walking over the bridge.
 There're some boats on the river.
@@ -804,3 +804,125 @@ Pink!
 This bookcase isn't for me.
 It's for my daughter.**Susan**
 Pink's her favourite color.
+
+test4
+
+You are working hard, George.
+What are you doing?
+I'm making a bookcase.
+Give me that hammer please, Dan.
+Which hammer?
+This one?
+No, not that one.
+The big one.
+Here you are.
+Thanks, Dan.
+What are you going to do now? George.
+I'm going to paint it.
+What color are you going to paint it?
+I'm going to paint it pink.
+Pink!
+This bookcase isn't for me.
+It's for my daughter, Susan.
+Pink's her favourite color.
+
+lesson 38
+
+What are you going to do now?
+I'm going to paint this bookcase.
+What are you doing?
+I'm painting this bookcase.
+
+lesson 35
+
+This is a photo of our village.
+Our village is in a valley.
+It's between two hills.
+The village is on a river.
+Here is another photo of the village.
+My wife and I are walking along the banks of the river.
+**We are on the left**
+There is a boy in the water.
+He's swimming across the river.
+Here is another photo.
+This is the school building.
+It's beside a park.
+The park on the right.
+Some children are comming out of the building.
+Some of them are going into the park. 
+
+lesson 37
+
+You are working hard, George.
+What are you doing?
+I'm making a bookcase.
+Give me that hammer please, Dan.
+Which hammer?
+This one?
+No, not that one.
+The big one.
+Here you are.
+Thanks, Dan.
+What are you going to do now? George.
+I'm going to paint it.
+What color are you going to paint it?
+I'm going to paint it pink.
+Pink!
+This bookcase isn't for me.
+It's for my daughter, Susan.
+Pink's her favourite color.
+
+
+
+lesson 39
+
+What are you going to do with **that** vase? Panny.
+I'm going to put it on this table, Sam.
+Don't do that.
+Give it to me.
+What are you going to do with vase? Panny.
+I'm going to put it on this table, Sam.
+Don't do that.
+Give it to me.
+What are you going to do with it?
+I'm going to put it here, in front of the window.
+Be careful!
+Don't drop it.
+Don't put it there, Sam.
+Put it here, on this shelf.
+
+test1
+
+What are you going to do with **that** vase? Panny.
+I'm going to put it on this table, Sam.
+Don't do that.
+Give it to me.
+What are you going to with it?
+I'm going to put it here, in front of the window.
+Be careful!
+Don't drop it.
+Don't put it there, Sam.
+Put it here, on this shlf.
+They we are.
+--This-- is a lovely vase. // ++It++
+Those flowers are lovely, too.
+
+test2
+
+What are you going to do with that vase? Panny.
+I'm going to put it on this table. Sam.
+Don't do that.
+Give it to me.
+What are you going to do with it?
+I'm going to put it here, in front of the window.
+Be careful!
+Don't drop it.
+Don't put it there, Sam. 
+Put it here, on this shelf.
+They we are.
+It's a lovely vase.
+Those flowers are lovely, too.
+
+
+
+
