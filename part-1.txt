@@ -1091,3 +1091,121 @@ Are your friends tourists? too.
 Yes, they are.
 That's fine.
 Thanks.
+
+lesson 17
+
+Come and meet our employees, Mr.Richairds.
+Thanks, Mr.Jackson.
+This is Nicola Grey and this is Claire Taylor.
+How do you do?
+Those woman are very hard-working.
+What are their jobs?
+They are keyboard --operator--. // ++operators++
+This is Michael Baker and this is Jeremy Short.
+How do you do?
+They are not very busy.
+What are their jobs?
+They are sales reps.
+They are very lazy.
+Who is this young man?
+He's Jim.
+He is our office --assitant--.// ++ assistant ++
+
+lesson 19
+
+What's the matter? children.
+We are tired and thirsty. Mom.
+Sit down here.
+Are you all right now?
+No, we are not.
+Look, there is an ice cream man.
+Two ice creams please.
+Here you are.
+Thanks, Mom.
+These ice creams are nice.
+Are you all right now?
+Yes, we are.
+Thanks, Mom.
+
+lesson 21
+
+Give me a book please, Jane.
+Which book?
+This one?
+No, not that one. The red one.
+This one?
+Yes, it is.
+Here you are.
+Thanks.
+
+lesson 23
+
+Give me some glasses please, Jane.
+Which glasses?
+--This ones?-- // ++ These glasses ++
+No, not --that ones--.  // ++those++
+The ones on the shelf.
+--This ones?-- // ++These?++
+Yes, please.
+Here you are.
+Thanks.
+
+lesson 25
+
+Mrs.Simth's Kichen is small.
+There is a --refrigeretor-- in the kitchen. // ++refrigerator++
+The --refrigeretor-- is white.
+It's on the right.
+There is an electric cooker in the kitchen.
+The cooker is blue.
+It's on the left.
+There is a table in the middle of the room.
+There is bottle on the table.
+The bottle is empty.
+There is a cup on the table, too.
+The cup is clean.
+
+lesson 27
+
+Mrs.Simth's living room is large.
+There is a televison in the room.
+The televison is near the window.
+There are some magazines on the televison.
+There is a table in the room.
+There're some newspapers on the table.
+There're **some** armchairs in the room.
+The arechairs --is-- near the table. //++are++
+There is a stereo in the room.
+The stereo is near the door.
+There're some books on the stereo.
+There're some pictures in the room.
+The pictures **are** on the wall.
+
+lesson 29
+
+Come in, Amy.
+Shut the door, please.
+This bedroom's very untidy.
+What must I do? Mrs.Jones.
+Open the window and air the room.
+Then put these clothes in the wardrobe.
+The make the bed.
+Dust the dressing table.
+Then sweep the floor.
+
+lesson 31
+
+Where's Sally? Jack.
+She's in the garden. Jean.
+What's she doing?
+She's sitting under the tree.
+Is Tim in the garden? too
+Yes, he is.
+He is climbing the tree.
+**I beg your** Pardon?
+Who is climbing the tree?
+--Is Tim!--//++Tim is++
+What about the dog？
+The dog is in the garden, too.
+It's running across the grass.
+It's running after a cat.
