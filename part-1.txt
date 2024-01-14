@@ -1189,7 +1189,7 @@ This bedroom's very untidy.
 What must I do? Mrs.Jones.
 Open the window and air the room.
 Then put these clothes in the wardrobe.
-The make the bed.
+Then make the bed.
 Dust the dressing table.
 Then sweep the floor.
 
@@ -1209,3 +1209,88 @@ What about the dog？
 The dog is in the garden, too.
 It's running across the grass.
 It's running after a cat.
+
+test1
+
+Where's Sally? Jack
+She's in the garden, Jean.
+What's she doing?
+She's sitting under the tree.
+Is Tim in the garden? too.
+Yes, he is.
+He's climbing the tree.
+I beg your pardon?
+Who is climbing the tree?
+Tim is.
+What about the dog?
+The dog's in the garden, too.
+It's running across the grass.
+It's running after a cat.
+
+lesson 33
+
+It's a fine day today.
+There are some clouds in the sky.
+But, the sun is shining.
+Mr.Jones is with his family.
+They are walking over the --brige--. // ++bridge++
+There are some boats on the river.
+Mr.Jones and his wife are looking at them.
+Sally is looking at a big ship.
+The ship is going under the --brige--.
+Tim is looking at an aeroplane.
+The aeroplane is flying over the river.
+
+lesson 35
+
+This is a photo of our village.
+Our village is in a valley.
+It's between two hills.
+The village is on a river.
+This is another photo of the village.
+My wife and I are walking along the banks of the river.
+We are on the left.
+There is a boy in the water.
+He's swimming across the river. 
+This is another photo.
+This is the school building.
+--The building-- is beside a park. //++It++
+The park it's on the right.
+Some children are coming out of the building.
+Some of them are going into the park.
+
+lesson 37
+
+You are working hard, George.
+What are you doing?
+I am making a bookcase.
+Give me that hammer please, Dan.
+Which --one--? // ++hammer++
+This one?
+No, not that one. The big one.
+Here you are.
+Thanks. Dan.
+What are you going to do now? George.
+I'm going to paint it.
+What color are you going to paint it?
+I'm going to paint it pink.
+Pink!
+This bookcase isn't for me.
+It's for my daughter, Susan.
+Pink's her favourite color.
+
+lesson 39
+
+What are you going to do with that vase, Penny?
+I'm going to put it on this table, Sam.
+Don't do that.
+Give it to me.
+What are you going to do with it?
+I'm going to put it here, in front of the window.
+Be careful!
+Don't drop it.
+Don't put there, Sam.
+Put it here, on this shelf.
+They we are.
+This is a lovely vase.
+Those flowers are lovely, too.
