@@ -693,7 +693,6 @@ The park is on the right.
 Some children are coming out of the building.
 Some of them are going into the park
 
-
 test 3
 
 This is a photograph of our village.
@@ -871,8 +870,6 @@ Pink!
 This bookcase isn't for me.
 It's for my daughter, Susan.
 Pink's her favourite color.
-
-
 
 lesson 39
 
@@ -1174,7 +1171,7 @@ There are some magazines on the televison.
 There is a table in the room.
 There're some newspapers on the table.
 There're **some** armchairs in the room.
-The arechairs --is-- near the table. //++are++
+The armchairs --is-- near the table. //++are++
 There is a stereo in the room.
 The stereo is near the door.
 There're some books on the stereo.
@@ -1294,3 +1291,135 @@ Put it here, on this shelf.
 They we are.
 This is a lovely vase.
 Those flowers are lovely, too.
+
+lesson 41
+
+Is that bag heay, Penny?
+Not very.
+Here.
+Put it on this chair.
+What's in it?
+A piece of cheese.
+A loaf of bread.
+A bar of --soup--. // ++soap++
+A bar of chocolate.
+A bottle of --millk--. // ++milk++
+A pound of sugar.
+--A half-- **pound** of coffee. // ++Half a++
+
+test 1
+
+Is that bag heay, Penny?
+Not very.
+Here.
+Put it on this chair.
+What's in it?
+A piece of cheese.
+A loaf of bread.
+A bar of soap.
+A bar of chocolate.
+A bottle of milk.
+A pound of sugar.
+Half a pound of coffee.
+A quater of a pound of tea.
+And a tin tobacco.
+
+test 2
+
+Is that bag heay, Penny?
+Not very.
+Here.
+Put it on this chair.
+What's in it?
+A piece of cheese.
+A loaf of bread.
+A bar of soap.
+A bar of chocolate.
+A bottle of milk.
+A pound of sugar.
+Half a pound of coffee.
+A quater of a pound of tea.
+And a tin of tobacco.
+Is that --a-- tin of tobacco for me?
+Well, it's certainly not for me.
+
+test 3
+
+Is that bag heay, Penny?
+Not very.
+Here.
+Put it on this chair.
+What's in it?
+A piece of cheese.
+A loaf of bread.
+A bar of soap.
+A bar of chocolate.
+A bottle of milk.
+A pound of sugar.
+Half a pound of coffee.
+A quater of a pound of tea.
+And a tin of tobacco.
+Is that tin of tabacco for me?
+Well, it's certainly not for me.
+
+test 4
+
+Is that bag heavy, Penny?
+Not very.
+Here.
+Put it on this chair.
+what's in it?
+A piece of cheese.
+A loaf of bread.
+A bar of soap.
+A bar of chocolate.
+A bottle of milk.
+A pound of sugar.
+Half a pound of coffee.
+A --quater-- of a pound of tea. //++quarter++
+And a tin of tobacco.
+Is that tin of tabacco for me?
+Well, it's certainly not for me.
+
+lesson 43
+
+Can you make the tea, Sam?
+Yes, of course, I can. Penny.
+Is there any water in this kettle?
+Yes, there is.
+Where's the tea?
+It's over there, behind the teapot.
+
+test1
+
+Can you make the tea, Sam?
+Yes, of course I can, Penny.
+Is there any water in this kettle?
+Yes, there is.
+Where's tea?
+It's over there, behind of the teapot.
+Can you see?
+I can see the teapot, but I can't see the tea.
+--It's there-- // ++There it is++.
+**It's ** in front of you.
+Ah, I can see it, now.
+
+test2
+
+Can you make the tea, Sam?
+Yes, of course I can, Penny.
+Is there any water in this kettle?
+Yes, there is.
+Where's tea?
+It's over there, behind of the teapot.
+Can you see **it**?
+I can see the teapot, but I can't see the tea.
+--It's there--. // ++There it is++
+It's in front of you.
+Ah, yes, I can see it now.
+Where are the cups?
+There are some in the --cupborad--. //++cupboard++
+Can you find them?
+Yes, --I can--. // ++Here they are++
+Hurry up, Sam!
+The kettle's boiling!
