@@ -133,9 +133,10 @@ There + be + 主语 + (位置)
 ## 量词与不可数名词
 
 不可数名词前面加量词进行量化时注意规则：
-`There is some bread.`
-`There is a loaf of bread.`
-`There are two loaves of bread.` (`a` 变成 `two`， 改变量词`loaf`为复数形式去`f`加`ves`，`be`动词变成`are`)
+
+  - `There is some bread.`
+  - `There is a loaf of bread.`
+  - `There are two loaves of bread.` (`a` 变成 `two`， 改变量词`loaf`为复数形式去`f`加`ves`，`be`动词变成`are`)
 
 
 
