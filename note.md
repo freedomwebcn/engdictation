@@ -138,7 +138,27 @@ There + be + 主语 + (位置)
   - `There is a loaf of bread.`
   - `There are two loaves of bread.` (`a` 变成 `two`， 改变量词`loaf`为复数形式去`f`加`ves`，`be`动词变成`are`)
 
+## doesn't
 
+`doesn't` 是 `does not` 的缩写形式，通常用于表示第三人称单数形式的现在时态否定句。具体来说，它是用于主语是第三人称单数（`he`、`she`、`it`、单数名词等）的情况。
+
+例如：
+
+  - `He doesn't like coffee`.（他不喜欢咖啡。）
+  - `She doesn't work on weekends`.（她周末不工作。）
+  - `It doesn't rain much in this region`.（在这个地区雨水不多。）
+
+在以上例子中，主语是第三人称单数（`he`、`she`、`it`），所以使用 `doesn't` 来否定动词。
+
+如果主语是第一人称或第二人称，或者是复数形式，就不需要使用 `doesn't`，而是使用 `do not` 或 `don't`。
+
+例如：
+
+  - `I don't like coffee`.（我不喜欢咖啡。）
+  - `We don't work on weekends`.（我们周末不工作。）
+  - `They don't have a car`.（他们没有车。）
+
+总的来说，`doesn't` 用于构建第三人称单数的否定句。
 
 
 

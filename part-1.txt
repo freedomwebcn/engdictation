@@ -1442,3 +1442,124 @@ Can you find them?
 Yes. Here they are.
 Hurrp up, Sam! The kettle's boiling!
 
+lesson 45
+
+Can you come here a minute please, Bob?
+Yes, sir?
+Where's Pamela?
+She's in next door.
+She's in her office, sir.
+Can she type this letter for me?
+Ask her please.
+Yes, sir.
+Can you type **this** letter for **the** boss please, Pamela?
+Yes, of course.
+Here you are.
+Thanks, Bob.
+
+test 1
+
+Can you come here a minute, Bob?
+Yes, sir?
+Where's Pamela?
+She's in next door.
+She's in her office, sir.
+Can she type this letter for me?
+Ask her,please.
+Yes, sir.
+Can you type this letter for the boss, Pamela?
+Yes, of course.
+Here you are.
+Thanks, Bob.
+
+test 2
+
+Can you come here a minute please, Bob?
+Yes, sir?
+Where's Pamela?
+She's --in-- next door.
+She's in her office.
+Can she type this letter for me?
+Ask her please.
+Yes, sir.
+Can you type this letter for the boss, Pamela?
+Yes, of course.
+Here you are.
+Thanks, Bob.
+Bob!
+What's the matter?
+I can't type this letter.
+I can't read --this letter--. // ++it++
+The boss's handwriting is terrible.
+
+test 3
+
+Can you come here a minute **please**, Bob?
+Yes, sir?
+Where's Pamela?
+She's next door.
+She's in her office, sir.
+Can she type this letter for me?
+Ask her please.
+Yes, sir.
+Can you type this letter for the boss please, Pamela?
+Yes, of course I can.
+Here you are.
+Thanks Bob.
+Bob!
+**Yes**
+What's the matter?
+I can't type this letter.
+I can't read it.
+The boss's handwriting is terrible.
+
+lesson 47
+
+Do you like coffee, Ann?
+Yes, I do.
+Do you want a cup of coffee?
+Yes, please.
+Do you want any sugar?
+Yes, please.
+Do you want any milk?
+No, thanks.
+I don't like milk in my coffee.
+I like black coffee.
+Do you like biscuits?
+Yes, I do.
+Do you want one?
+Yes, please.
+
+Do you like coffee, Anna?
+Yes, I do.
+Do you want a cup of coffee?
+Yes, please.
+Do you want any sugar?
+Yes, please.
+Do you want any milk?
+No, thank you. I don't like milk in my coffee.
+I like black coffee.
+Do you like biscuits?
+Yes, I do.
+Do you want one?
+Yes, please.
+
+
+Do you like coffee, Anna?
+Yes, I do.
+Do you want a cup?
+Yes, please.
+Do you want any sugar?
+Yes, please.
+Do you want any milk?
+No, thanks. I don't like milk in my coffee.
+I like black coffee.
+Do you like biscuits?
+Yes, I do.
+Do you want one?
+Yes, please.
+
+
+Do you like bread?
+Yes, I do.
+Yes, I like bread, but I don't want any.
