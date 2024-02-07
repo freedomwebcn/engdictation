@@ -140,7 +140,8 @@ There + be + 主语 + (位置)
 
 ## doesn't
 
-`doesn't` 是 `does not` 的缩写形式，通常用于表示第三人称单数形式的现在时态否定句。具体来说，它是用于主语是第三人称单数（`he`、`she`、`it`、单数名词等）的情况。
+`doesn't` 是 `does not` 的缩写形式，通常用于表示第三人称单数形式的现在时态否定句。
+具体来说，它是用于主语是第三人称单数（`he`、`she`、`it`、单数名词等）的情况。
 
 例如：
 
@@ -158,8 +159,67 @@ There + be + 主语 + (位置)
   - `We don't work on weekends`.（我们周末不工作。）
   - `They don't have a car`.（他们没有车。）
 
-总的来说，`doesn't` 用于构建第三人称单数的否定句。
+总的来说，`doesn't` 用于构建第三人称单数的否定句，
+
+## 动词第三人称单数的变化规则
+
+1. 一般规则：
+
+  - 大多数动词在第三人称单数形式上加上 `-s`。
+
+    - 例子：`play` → `plays`（玩）
+
+    - 例子：`read` → `reads`（读）
+
+2. 以 ``s`、`x`、`z`、`ch`、`sh` 结尾的动词：
+
+	- 如果动词以` s`、`x`、`z`、`ch`、`sh` 结尾，那么在第三人称单数形式中通常加上 `-es`。
+		- 例子：`pass` → `passes`（通过）
+		- 例子：`fix` → `fixes`（修理）
+
+3. 以辅音字母 + `y` 结尾的动词：
+
+	- 如果动词以辅音字母 + `y` 结尾，将 `y`变成 `i`，然后再加上 `-es`。
+		- 例子：`study `→ `studies`（学习）
+		- 例子：`fly` →` flies`（飞）
+
+4. 以元音字母 + `y` 结尾的动词：
+
+	- 如果动词以元音字母 + `y` 结尾，直接加上 `-s`。
+		- 例子：`play` → `plays`（玩）
+		  - 例子：`say` → `says`（说）
+
+5. 动词`have`，遇到主语是第三人称单数时，要用`has`；动词`be`的第三人称单数形式是`is`。
+
+6. 含有动词第三人称单数形式的句子变否定句时，要用`doesn't`+动词原形.
+	
+	- 例句：
+		`My husband likes steak, but he doesn't like chicken`.
+
+7. 对含有动词第三人称单数形式的句子提问时，要用助动词`does`.
+
+	- Q: Does he like steak?
+	- A: Yes, he does./ No, he doesn't.
+	- tip: 句子中助动词变成了单三，主要动词like就不需要变了。
+
+## 可数名词变复数
 
 
+| **情况**                    | **构成**            | **例词**                                                     | 备注                             |
+| --------------------------- | ------------------- | :----------------------------------------------------------- | -------------------------------- |
+| 一般情况                    | 加 `-s`             | `map` - `maps`  <br/>`bag` - `bags`                          |                                  |
+| 以` -s/-sh/-x/-ch` 结尾的词 | 加` -es`            | `glass` - `glasses` <br/>`box` - `boxes`                     |                                  |
+| 以辅音字母 ` +o ` 结尾的词  | 加` -es`            | `tomato` - `tomatoes` <br>`potato`  - `potatoes`             | `photo`: 特别注意，变复数加` -s` |
+| 以辅音字母` +y `结尾的词    | 变 ` y` 为` -ies`   | `baby` - `babies` <br/>`family` - `families`                 |                                  |
+| 以 `-f / -fe` 结尾的词      | 变` f/fe` 为` -ves` | `wife` - `wies` <br/>`knife` - `knives`                      |                                  |
+| 特殊情况（1）               |                     | `man`-`men`<br/>`woman` - `women` <br>`policeman` - `policemen`<br>`man doctor` - `men doctors`<br>`boy student` - `boy students` |                                  |
+| 特殊情况（2）               | 单复数同形          | `fish / sheep / Chinese / people`                            |                                  |
+| 特殊情况（3）               |                     | `foot` - `feet` <br>`tooth` - `teeth` <br>`mouse` - `mice`<br>`child` - `children` |                                  |
 
+当某人说喜欢或不喜欢某类食物时，名词需要变复数。
 
+例句: 
+
+- `Diana likes tomatoes， but she doesn't like potatoes`
+
+本条笔记来源：https://www.bilibili.com/video/BV19r4y1y7Hp?p=5&vd_source=68cbb4dd0fa36c78724f33eab6dc88d9
